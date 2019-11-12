@@ -1,0 +1,115 @@
+{
+    "attractions": [
+        {
+            "id": 1,
+            "name": "Our AirBnb",
+            "placeId": "ChIJWdm6KpsyHogRedvzUSmsZd8",
+            "lat": 44.760574,
+            "lng": -85.633180,
+            "description": "Where we're staying.",
+            "address": "603 Seventh St, Traverse City, MI 49684"
+        },
+        {
+            "name": "The Coin Slot / Keg Stand Brewery",
+            "placeId": "ChIJc6w2SZ4yHogRpqC0xramVoc",
+            "lat": 44.763933,
+            "lng": -85.616209,
+            "description": "Beer from The Keg Stand Brewery. Has an arcade with unlimited play for $10.",
+            "address": "346 E Front St, Traverse City, MI 49684"
+        },
+        {
+            "name": "North Peak Brewery",
+            "placeId": "ChIJC5gUJpwyHogRbO4iVIYk2HI",
+            "lat": 44.764280,
+            "lng": -85.628410,
+            "description": "Close to the AirBnb.",
+            "address": "400 West Front St, Traverse City, MI 49684"
+        },
+        {
+            "name": "Kilkenny's Irish Public House",
+            "placeId": "ChIJn5prJpwyHogR0CgKImwg518",
+            "lat": 44.764280,
+            "lng": -85.628410,
+            "description": "Irish pub below North Peak. Maybe cover, maybe live band at night. Good food and exclusive beers.",
+            "address": "400 West Front St, Traverse City, MI 49684"
+        },
+        {
+            "name": "The Little Fleet",
+            "placeId": "ChIJ61wCN6YyHogRhYU1e1WYdzs",
+            "lat": 44.763704,
+            "lng": -85.613745,
+            "description": "Bar with a bunch of food trucks.",
+            "address": "448 E Front St, Traverse City, MI 49686"
+        },
+        {
+            "name": "Right Brain Brewery",
+            "placeId": "ChIJsVjzsJ8yHogR8FwB7poG0mE",
+            "lat": 44.749698,
+            "lng": -85.619414,
+            "description": "Untested",
+            "address": "225 E Sixteenth St, Traverse City, MI 49684"
+        },
+        {
+            "name": "Rare Bird Brewpub",
+            "placeId": "ChIJ4aeUq6MyHogRdXhwsquA870",
+            "lat": 44.759930, 
+            "lng": -85.619648,
+            "description": "Untested",
+            "address": "229 Lake Ave, Traverse City, MI 49684"
+        },
+        {
+            "name": "Dillinger's Pub",
+            "placeId": "ChIJhd2Kbp8yHogRpGaVCIh85cg",
+            "lat": 44.763269, 
+            "lng": -85.623689,
+            "description": "Irish pub. Good service.",
+            "address": "121 S Union St, Traverse City, MI 49684"
+        },
+        {
+            "name": "Blue Tractor Barbeque",
+            "placeId": "ChIJf8BCYpgyHogRbxW-aNtqgKE",
+            "lat": 44.759738, 
+            "lng": -85.623471,
+            "description": "Location untested. Ann Arbor one had good food. Close.",
+            "address": "423 S Union St, Traverse City, MI 49684"
+        },
+        {
+            "name": "Nolan's Tobacco and Cigar Bar",
+            "placeId": "ChIJHdRB2aYyHogR2LxB_fkv1wk",
+            "lat": 44.763962, 
+            "lng": -85.616559,
+            "description": "Good beer and cigars.",
+            "address": "336 E Front St, Traverse City, MI 49684"
+        },
+        {
+            "name": "Bubba's",
+            "placeId": "ChIJRTiuTaYyHogRo_Gf5oPjjkE",
+            "lat": 44.763985, 
+            "lng": -85.614456,
+            "description": "Brunch and burgers. Near food trucks.",
+            "address": "428 E Front St, Traverse City, MI 49686"
+        },
+        {
+            "name": "The Crown Golf Club",
+            "placeId": "ChIJz_2z1NkzHogRyt_elRc-K0Q",
+            "lat": 44.720302, 
+            "lng": -85.687488,
+            "description": "Golf Course for Friday at 1pm.",
+            "address": "2430 W Crown Dr, Traverse City, MI 49685"
+        },
+        {
+            "name": "Traverse City Whiskey Co.",
+            "lat": 44.751929,
+            "lng": -85.620558,
+            "description": "Untested... but whiskey",
+            "address": "201 E 14th St, Traverse City, MI 49684"
+        },
+        {
+            "name": "Kayak, Bike & Brew",
+            "lat": 44.765356,
+            "lng": -85.626394,
+            "description": "Meeting spot for Saturday at 12pm.",
+            "address": "229 Garland St, Traverse City, MI 49684"
+        }
+    ]
+}
